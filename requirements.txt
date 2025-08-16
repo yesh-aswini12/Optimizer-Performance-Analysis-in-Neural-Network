@@ -1,0 +1,9 @@
+numpy → numerical computations
+
+matplotlib → plotting average error curves and confusion matrices
+
+scikit-learn → generating confusion matrices (confusion_matrix, classification_report)
+
+torch / torchvision → neural network model, training, optimizers
+
+jupyter → if someone wants to run the notebook locally instead of Colab
